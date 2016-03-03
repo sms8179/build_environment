@@ -1,0 +1,22 @@
+{
+  "name": "build_environment",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "sms8179 <steven.shaughnessy1@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [
+    "node"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true
+}
