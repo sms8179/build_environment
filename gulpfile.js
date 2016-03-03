@@ -23,9 +23,8 @@ var PATHS = {
     '!src/assets/{img,js,scss}/**/*'
   ],
   sass: [
-    'bower_components/susy/sass/susy',
-    'bower_components/sassy-maps/sass/sassy-maps',
-    'bower_components/breakpoint-sass/stylesheets/breakpoint'
+    'bower_components/susy/sass/',
+    'bower_components/breakpoint-sass/stylesheets/'
   ],
   javascript: [
     'bower_components/jquery/dist/jquery.js',

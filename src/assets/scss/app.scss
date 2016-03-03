@@ -1,8 +1,10 @@
 @charset 'utf-8';
 
 @import 'settings';
-@import 'sassy-maps';
+
 @import 'breakpoint';
 @import 'susy';
+
+@import 'global';
 
 @import '0-tools/0-tools';
