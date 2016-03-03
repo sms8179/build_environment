@@ -18,5 +18,8 @@
     "test",
     "tests"
   ],
-  "private": true
+  "dependencies": {
+    "susy": "^2.2.12",
+    "breakpoint-sass": "^2.7.0"
+  }
 }
