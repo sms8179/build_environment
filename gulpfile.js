@@ -27,7 +27,7 @@ var PATHS = {
     'bower_components/breakpoint-sass/stylesheets/'
   ],
   javascript: [
-    'bower_components/jquery/dist/jquery.js',
+    'bower_components/jquery/dist/jquery.min.js',
     'src/assets/js/**/!(app).js',
     'src/assets/js/app.js'
   ]
